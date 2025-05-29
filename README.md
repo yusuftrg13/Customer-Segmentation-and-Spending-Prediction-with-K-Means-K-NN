@@ -41,6 +41,13 @@ This project applies K-Means clustering and K-NN classification algorithms on a 
   - ...
 
 ---
+![cluster_analysis](https://github.com/user-attachments/assets/d08e42d4-1dd2-4911-a988-0da4786b7d62)
+![knn_decision_boundaries](https://github.com/user-attachments/assets/cfc96f27-5980-4b2e-bde6-6824eafedcc9)
+![knn_accuracy](https://github.com/user-attachments/assets/2424ed78-71d2-49c4-8ddb-c8924698468b)
+![kmeans_clusters](https://github.com/user-attachments/assets/8611a6ca-e496-404b-99c9-5804609ffc9c)
+![gender_by_cluster](https://github.com/user-attachments/assets/b98845fa-e67d-4188-93ea-9bb6872fba00)
+![elbow_method](https://github.com/user-attachments/assets/a48fc58a-a680-4a0b-a4ed-fbe1728af472)
+![eda_plots](https://github.com/user-attachments/assets/4bd73327-d405-4bf2-b828-4bfb84d305d8)
 
 ## Kurulum ve Çalıştırma | Installation & Usage
 
@@ -52,11 +59,5 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 python mall_customer_knn_analysis.py
 python mall_customer_knn_classification.py
 
-![cluster_analysis](https://github.com/user-attachments/assets/d08e42d4-1dd2-4911-a988-0da4786b7d62)
-![knn_decision_boundaries](https://github.com/user-attachments/assets/cfc96f27-5980-4b2e-bde6-6824eafedcc9)
-![knn_accuracy](https://github.com/user-attachments/assets/2424ed78-71d2-49c4-8ddb-c8924698468b)
-![kmeans_clusters](https://github.com/user-attachments/assets/8611a6ca-e496-404b-99c9-5804609ffc9c)
-![gender_by_cluster](https://github.com/user-attachments/assets/b98845fa-e67d-4188-93ea-9bb6872fba00)
-![elbow_method](https://github.com/user-attachments/assets/a48fc58a-a680-4a0b-a4ed-fbe1728af472)
-![eda_plots](https://github.com/user-attachments/assets/4bd73327-d405-4bf2-b828-4bfb84d305d8)
+
 
